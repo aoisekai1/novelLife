@@ -1,0 +1,46 @@
+- ## Get Started
+    - [Overview](/{{route}}/{{version}}/overview)
+    - [Configure](/{{route}{{version}}/configure)
+- ## Novel
+    - [GET](/{{route}}/{{version}}/novel/getNovel)
+    - [POST](/{{route}}/{{version}}/novel/postNovel)
+    - [PUT](/{{route}}/{{version}}/novel/updateNovel)
+    - [DELETE](/{{route}}/{{version}}/novel/deleteNovel)
+- ## Menu
+    - [GET](/{{route}}/{{version}}/menu/getMenu)
+    - [POST](/{{route}}/{{version}}/menu/postMenu)
+    - [PUT](/{{route}}/{{version}}/menu/updateMenu)
+    - [DELETE](/{{route}}/{{version}}/menu/deleteMenu)
+- ## Auth
+    - [Post Login](/{{route}}/{{version}}/auth/login)
+    - [Post register](/{{route}}/{{version}}/auth/register)
+- ## Chapter
+    - [GET](/{{route}}/{{version}}/chapter/getChapter)
+    - [POST](/{{route}}/{{version}}/chapter/postChapter)
+    - [PUT](/{{route}}/{{version}}/chapter/updateChapter)
+    - [DELETE](/{{route}}/{{version}}/chapter/deleteChapter)
+- ## Members
+    - [GET](/{{route}}/{{version}}/member/getMemebr)
+    - [POST](/{{route}}/{{version}}/member/postMemebr)
+    - [PUT](/{{route}}/{{version}}/member/updateMemebr)
+    - [DELETE](/{{route}}/{{version}}/member/deleteMemebr)
+- ## Permission Menu
+    - [GET](/{{route}}/{{version}}/permission_menu/getPermissionMenu)
+    - [POST](/{{route}}/{{version}}/permission_menu/postPermissionMenu)
+    - [PUT](/{{route}}/{{version}}/permission_menu/updatePermissionMenu)
+    - [DELETE](/{{route}}/{{version}}/permission_menu/deletePermissionMenu)
+- ## Rate
+    - [GET](/{{route}}/{{version}}/rate/getRate)
+    - [POST](/{{route}}/{{version}}/rate/postRate)
+    - [PUT](/{{route}}/{{version}}/rate/updateRate)
+    - [DELETE](/{{route}}/{{version}}/rate/deleteRate)
+- ## Social Media
+    - [GET](/{{route}}/{{version}}/social_media/getSocialMedia)
+    - [POST](/{{route}}/{{version}}/social_media/postSocialMedia)
+    - [PUT](/{{route}}/{{version}}/social_media/updateSocialMedia)
+    - [DELETE](/{{route}}/{{version}}/social_media/deleteSocialMedia)
+- ## Type User
+    - [GET](/{{route}}/{{version}}/type_user/getTypeUser)
+    - [POST](/{{route}}/{{version}}/type_user/postTypeUser)
+    - [PUT](/{{route}}/{{version}}/type_user/updateTypeUser)
+    - [DELETE](/{{route}}/{{version}}/type_user/deleteTypeUser)
